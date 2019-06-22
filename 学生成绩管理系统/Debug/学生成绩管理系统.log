@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(学生成绩管理系统.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源程序.c
+d:\c语言\学生成绩管理系统\学生成绩管理系统\源程序.c(46): warning C4305: “=”: 从“int”到“char”截断
+d:\c语言\学生成绩管理系统\学生成绩管理系统\源程序.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\c语言\学生成绩管理系统\学生成绩管理系统\源程序.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\c语言\学生成绩管理系统\学生成绩管理系统\源程序.c(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\c语言\学生成绩管理系统\学生成绩管理系统\源程序.c(119): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\c语言\学生成绩管理系统\学生成绩管理系统\源程序.c(138): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  学生成绩管理系统.vcxproj -> D:\C语言\学生成绩管理系统\Debug\学生成绩管理系统1.0.exe
